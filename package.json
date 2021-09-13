@@ -23,7 +23,6 @@
     "node-superfetch": "^0.1.11",
     "axios": "^0.21.1",
     "cheerio": "^0.22.0",
-    "genius-api": "github:jahrlin/genius-api",
     "sodium": "^3.0.2",
     "libsodium": "^0.7.8",
     "fs": "^0.0.2",
